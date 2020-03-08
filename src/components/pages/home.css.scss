@@ -1,0 +1,30 @@
+
+
+.app_title {
+  margin: 10px auto 0px auto; 
+}
+
+.home_container {
+  width: 90%;
+  margin: 0px auto;
+}
+
+.music_name {
+  height: 50vh;
+  border: solid 1px lightgrey;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.weather_name {
+  height: 30vh;
+  border: solid 1px lightgrey;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.weather_data_couple {
+  display: flex;
+  width: 300px;
+  margin: 0px auto;
+}
